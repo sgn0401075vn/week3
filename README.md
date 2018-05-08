@@ -49,10 +49,11 @@ D-2. Bads:
 E. Emirates Airlines:
 
 E-1. Goods:
+  * Have all I need
   * Multi search function
 
 E-2. Bads:
-  *
+  * So much information
 
 
 
